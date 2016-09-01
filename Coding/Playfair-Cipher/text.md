@@ -1,6 +1,6 @@
 One of the most famous of the classical ciphers was the Playfair cipher, invented by Sir Charles Wheatstone in 1854 but popularized by Lord Lyon Playfair. The cipher was used by the British during the Boer War and World War I, and was still in use as a field-grade cipher as late as World War II, probably because it is simple to teach, fast to use, requires no special equipment, and was reasonably secure by the standards of the day; by the time enemy cryptanalysts could break the message, its contents were useless to them.
 
-Playfair uses a 5-square block containing the pass-phrase; the letter J is mapped to I to make the 26-letter alphabet fit the 5-square block. The pass-phrase is first filled in to the 5-square block, then the remaining letters of the alphabet complete the 5-square block, with duplicates removed. For instance, the pass-phrase PLAYFAIR leads to this 5-square block:
+>Playfair uses a 5-square block containing the pass-phrase; the letter J is mapped to I to make the 26-letter alphabet fit the 5-square block. The pass-phrase is first filled in to the 5-square block, then the remaining letters of the alphabet complete the 5-square block, with duplicates removed. For instance, the pass-phrase PLAYFAIR leads to this 5-square block:
 
 `P L A Y F`
 
@@ -12,7 +12,7 @@ Playfair uses a 5-square block containing the pass-phrase; the letter J is mappe
 
 `U V W X Z`
 
-Some variants of Playfair omit Q instead of J, or start the key from the bottom-right corner and work backwards; we’ll stick with the standard method.
+>Some variants of Playfair omit Q instead of J, or start the key from the bottom-right corner and work backwards; we’ll stick with the standard method.
 
 The message to be encrypted is split into digrams, with J mapped to I. In addition, no digram may use the same letter twice, so an X is inserted if needed (some Playfair variants use Z or Q instead of X). Likewise, if the last digram has only a single letter, an X is added to the end of the message. For instance, the plain-text PROGRAMMING PRAXIS is split as:
 
