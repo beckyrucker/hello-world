@@ -37,23 +37,23 @@ The most famous use of the Playfair cipher came in 1943. David Kahn writes in Th
 
 >*Perhaps the most famous cipher of 1943 involved the future president of the U.S., J. F. Kennedy, Jr. On 2 August 1943, Australian Coastwatcher Lieutenant Arthur Reginald Evans of the Royal Australian Naval Volunteer Reserve saw a pinpoint of flame on the dark waters of Blackett Strait from his jungle ridge on Kolombangara Island, one of the Solomons. He did not know that the Japanese destroyer Amagiri had rammed and sliced in half an American patrol boat PT-109, under the command of Lieutenant John F. Kennedy, United States Naval Reserve. Evans received the following message at 0930 on the morning of the 2 of August 1943:*
 
-`KXJEY UREBE ZWEHE WRYTU HEYFS`
+>`KXJEY UREBE ZWEHE WRYTU HEYFS`
 
-`KREHE GOYFI WTTTU OLKSY CAJPO`
+>`KREHE GOYFI WTTTU OLKSY CAJPO`
 
-`BOTEI ZONTX BYBWT GONEY CUZWR`
+>`BOTEI ZONTX BYBWT GONEY CUZWR`
 
-`GDSON SXBOU YWRHE BAAHY USEDQ`
+>`GDSON SXBOU YWRHE BAAHY USEDQ`
 
-*The translation:*
+>*The translation:*
 
-`PT BOAT ONE OWE NINE LOST IN ACTION IN BLACKETT`
+>`PT BOAT ONE OWE NINE LOST IN ACTION IN BLACKETT`
 
-`STRAIT TWO MILES SW MERESU COVE X CREW OF TWELVE`
+>`STRAIT TWO MILES SW MERESU COVE X CREW OF TWELVE`
 
-`X REQUEST ANY INFORMATION.`
+>`X REQUEST ANY INFORMATION.`
 
-*The coastwatchers regularly used the Playfair system. Evans deciphered it with the key `ROYAL NEW ZEALAND NAVY` and learned of Kennedy’s fate. […] About ten hours later, at 10:00 p.m. Kennedy and his crew was rescued.*
+>*The coastwatchers regularly used the Playfair system. Evans deciphered it with the key `ROYAL NEW ZEALAND NAVY` and learned of Kennedy’s fate. […] About ten hours later, at 10:00 p.m. Kennedy and his crew was rescued.*
 
 #Task
 Your task is to write functions that encipher and decipher messages using the Playfair cipher. 
