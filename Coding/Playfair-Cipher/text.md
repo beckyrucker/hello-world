@@ -35,7 +35,7 @@ Playfair is rather more secure than simpler substitution ciphers because it work
 
 The most famous use of the Playfair cipher came in 1943. David Kahn writes in The Codebreakers:
 
-*Perhaps the most famous cipher of 1943 involved the future president of the U.S., J. F. Kennedy, Jr. On 2 August 1943, Australian Coastwatcher Lieutenant Arthur Reginald Evans of the Royal Australian Naval Volunteer Reserve saw a pinpoint of flame on the dark waters of Blackett Strait from his jungle ridge on Kolombangara Island, one of the Solomons. He did not know that the Japanese destroyer Amagiri had rammed and sliced in half an American patrol boat PT-109, under the command of Lieutenant John F. Kennedy, United States Naval Reserve. Evans received the following message at 0930 on the morning of the 2 of August 1943:*
+>*Perhaps the most famous cipher of 1943 involved the future president of the U.S., J. F. Kennedy, Jr. On 2 August 1943, Australian Coastwatcher Lieutenant Arthur Reginald Evans of the Royal Australian Naval Volunteer Reserve saw a pinpoint of flame on the dark waters of Blackett Strait from his jungle ridge on Kolombangara Island, one of the Solomons. He did not know that the Japanese destroyer Amagiri had rammed and sliced in half an American patrol boat PT-109, under the command of Lieutenant John F. Kennedy, United States Naval Reserve. Evans received the following message at 0930 on the morning of the 2 of August 1943:*
 
 `KXJEY UREBE ZWEHE WRYTU HEYFS`
 
