@@ -4,4 +4,4 @@ A teacher wants to create several sets of pairs of her students to work together
 {Anne, Chet}, {Beth, Dirk}
 {Anne, Dirk}, {Beth, Chet}`
 
-Your task is to write a program that, given a *list of students*, produces a *list of all possible sets of pairings*, without duplicates. When you are finished, you are welcome to read or run a suggested solution, or to post your own solution or discuss the exercise in the comments below.
+Your task is to write a program that, given a *list of students*, produces a *list of all possible sets of pairings*, without duplicates.
